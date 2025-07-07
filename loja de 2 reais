@@ -1,0 +1,91 @@
+Objetivo
+Criar um protótipo navegável no Figma para um app de pedidos de uma lanchonete popular, focando em:
+✔ Usabilidade intuitiva (público diverso, incluindo usuários com pouca familiaridade com tecnologia).
+✔ Velocidade no pedido (cardápio simples e rápido).
+✔ Custo-benefício (itens a R$2,00, com opções de combo).
+
+2. Público-Alvo
+Perfil: Pessoas em busca de lanches rápidos e baratos (estudantes, trabalhadores informais).
+
+Necessidades:
+
+Cardápio claro e direto.
+
+Pagamento fácil (PIX, dinheiro na entrega).
+
+Entrega rápida ou retirada no balcão.
+
+3. Fluxo Principal (Telas do Protótipo)
+Tela 1: Boas-vindas
+Logo da lanchonete + slogan ("Lanches saborosos por R$2,00!").
+
+Botão "Fazer Pedido" (destaque visual).
+
+Tela 2: Cardápio
+Lista vertical com fotos dos lanches (ex.: misto-quente, pastel, mini-pizza).
+
+Filtro rápido:
+
+"Mais vendidos"
+
+"Combos" (ex.: 3 itens por R$5,00).
+
+Botão flutuante do carrinho (ícone + total).
+
+Tela 3: Detalhes do Item
+Foto ampliada + descrição (ex.: "Misto-quente: pão, queijo e presunto").
+
+Botão "+" e "-" para quantidade.
+
+Opção "Adicionar ao carrinho".
+
+Tela 4: Carrinho
+Resumo dos itens + valor total.
+
+Opções de pagamento:
+
+PIX (código QR).
+
+Dinheiro na entrega.
+
+Entrega ou retirada (toggle button).
+
+Tela 5: Confirmação
+Número do pedido + tempo estimado.
+
+Botão "Acompanhar pedido" (simulação de GPS).
+
+4. Interações no Figma
+Clique em "Fazer Pedido" → Direciona para o cardápio.
+
+Seleção de itens → Atualiza o carrinho em tempo real.
+
+Pagamento via PIX → Mostra QR code estático (simulado).
+
+5. Design e Recursos Visuais
+Cores: Tons vibrantes (laranja, amarelo) para transmitir energia e preços baixos.
+
+Ícones: Simples (carrinho, dinheiro, relógio).
+
+Tipografia: Roboto (legível em telas pequenas).
+
+https://example.com/lanchonete-cardapio.png (Wireframe ilustrativo)
+
+6. Validação com Usuários
+Testes de usabilidade:
+
+Pedir a 5 usuários que completem um pedido (tempo médio esperado: <1 minuto).
+
+Feedback sobre clareza dos preços e facilidade de pagamento.
+
+7. Próximos Passos
+Refinar protótipo com base nos testes.
+
+Adicionar telas secundárias:
+
+Histórico de pedidos.
+
+Avaliação do lanche após entrega.
+
+Validar com donos de lanchonetes para ajustes realistas.
+
