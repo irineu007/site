@@ -1,0 +1,96 @@
+Este documento apresenta o processo completo de uma pesquisa de UX realizada com base nos métodos aprendidos no curso. O objetivo foi entender as necessidades e comportamentos dos usuários de um produto digital (aplicativo de delivery de comida) e identificar oportunidades de melhoria por meio de:
+
+Planejamento da pesquisa (objetivos, hipóteses e métodos).
+
+Entrevistas com usuários.
+
+Síntese de dados (Mapeamento de Afinidade).
+
+Criação de Personas e Journey Maps.
+
+Proposta de soluções baseadas em evidências.
+
+Ferramentas utilizadas: Figma, Google Forms, Miro, GitHub (para documentação).
+
+2. Plano de Pesquisa
+2.1 Objetivo
+Identificar as principais dores e expectativas de usuários ao utilizar um aplicativo de delivery de comida para propor melhorias na experiência.
+
+2.2 Hipóteses
+Os usuários abandonam pedidos devido a tempo de entrega impreciso.
+
+A falta de filtros personalizados dificulta a escolha de restaurantes.
+
+O processo de pagamento é considerado complicado.
+
+2.3 Métodos
+Método	Descrição	Participantes
+Entrevistas	1:1, remotas (30 min cada)	8 usuários
+Survey	Questionário online (Google Forms)	50 respostas
+Teste de Usabilidade	Tarefas no app atual (remoto)	5 usuários
+3. Coleta de Dados (Entrevistas)
+3.1 Roteiro de Entrevista
+Aquecimento:
+
+"Você costuma pedir comida por app? Com que frequência?"
+
+Profundidade:
+
+"Qual foi sua última experiência positiva/negativa com delivery?"
+
+"Como você escolhe um restaurante no app?"
+
+Encerramento:
+
+"O que te faria usar mais ou menos esse serviço?"
+
+3.2 Síntese (Mapeamento de Afinidade)
+Os dados foram organizados em um Miro Board, agrupando padrões:
+
+Grupo 1: Frustração com "promoções enganosas".
+
+Grupo 2: Dificuldade em filtrar por "comida vegana".
+
+Grupo 3: Medo de erros no pedido (ex.: item faltando).
+
+https://example.com/affinity-map.png (Exemplo fictício)
+
+4. Personas e Jornada do Usuário
+4.1 Persona Principal
+Nome: Ana, 28 anos
+Objetivo: "Quero pedir comida rápida e saudável no horário do almoço."
+Frustrações:
+
+Restaurantes com avaliações falsas.
+
+Entregas atrasadas sem comunicação.
+
+https://example.com/persona.png (Exemplo fictício)
+
+4.2 Journey Map
+Fase: "Escolher e receber o pedido"
+
+Momento crítico: "Tempo de espera após o pedido" → Sentimento: Ansiedade.
+
+Oportunidade:
+
+Notificar usuário sobre atrasos em tempo real.
+
+Oferecer cupom de desconto para pedidos futuros.
+
+https://example.com/journey-map.png (Exemplo fictício)
+
+5. Oportunidades e Recomendações
+Com base nos dados, sugerimos:
+
+Melhorar transparência no tempo de entrega:
+
+Mostrar atualizações em tempo real (ex.: "Seu pedido saiu para entrega").
+
+Filtros personalizados:
+
+Adicionar opções como "comida vegana" ou "menos de 30 min".
+
+Confirmação de pedido:
+
+Incluir resumo do pedido antes do pagamento.
